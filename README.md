@@ -1,1 +1,5 @@
-write a brief introduction describing what the current project is and what skills you will have demonstrated once you have completed it. (You can also do this as a self-reflection at the end of the project, which is a good way to review what you have learned.)
+First HTML project.
+
+Learned how to use anchors, attributes, basic HTML elements, how to resize pictures, make ordered lists and generic lists. Learned how to also link pages to each others.
+
+Improved upon Bash, Git and HTML fundamentals.

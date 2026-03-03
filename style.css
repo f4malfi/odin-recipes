@@ -3,11 +3,19 @@ body {
 
 }
 
+.gundam {
+    display:block;
+    margin:10px auto;
+    text-align:center;
+
+}
+
 .card {
     background-color:rgb(105, 142, 197);
-    margin: 6px;
+    margin: 6px auto;
     align-content:center;
     text-align:center;
+    width: 400px;
 }
 
 h1 {

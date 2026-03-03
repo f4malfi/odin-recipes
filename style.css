@@ -1,0 +1,33 @@
+body {
+    background-color:rgb(75, 69, 161);
+
+}
+
+.card {
+    background-color:rgb(105, 142, 197);
+    margin: 6px;
+    align-content:center;
+    text-align:center;
+}
+
+h1 {
+    align-content:center;
+    background-color:pink;
+    display:inline-block;
+    margin: 20px;
+    box-sizing:border-box;
+}
+
+p {
+    padding: 10px;
+    background-color:rgb(59, 149, 223);
+    align-content: center;
+    margin:12px auto;
+    box-sizing:border-box;
+    display:inline-block;
+}
+
+ul {
+    list-style-type:none;
+    padding:0;
+}
